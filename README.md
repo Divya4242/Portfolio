@@ -15,7 +15,7 @@ This was a website built to showcase my technical skills, web design skills.
  
  Pursuing B.tech from L.D. College(GTU affiliated) with a major in Information Technology. (Pre-final year student)
  
-### Homepage visuals
+## Homepage visuals
 
 ![image](https://user-images.githubusercontent.com/113757574/213184102-0c2dafb8-a2d5-48b5-940f-dc7da7b1fa7f.png)
 ![image](https://user-images.githubusercontent.com/113757574/213184240-23094361-6c1c-4c9b-b5c0-f5d53a298222.png)
