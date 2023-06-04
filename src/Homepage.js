@@ -7,6 +7,7 @@ import Contact from "./Contact";
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
+import resume from "./images/Divya_Resume.pdf"
 
 function Homepage() {
     return (
@@ -26,7 +27,7 @@ function Homepage() {
             </Navbar> */}
             <Navbar collapseOnSelect expand="sm" bg="dark" variant="dark" fixed="top">
                 <Container>
-                    <Navbar.Brand href="#parent">{`< Divya Patel />`}</Navbar.Brand>
+                    <Navbar.Brand style={{ fontFamily: "Times New Roman", fontWeight: "800", fontStyle: "italic" }} href="#parent">{`< Divya Patel />`}</Navbar.Brand>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                     <Navbar.Collapse id="responsive-navbar-nav" >
                         <Nav className="me-auto liu active">
@@ -34,6 +35,7 @@ function Homepage() {
                             <Nav.Link href="#Timeline">Timeline</Nav.Link>
                             <Nav.Link href="#Projects">Project</Nav.Link>
                             <Nav.Link href="#Contact">Contact</Nav.Link>
+                            <Nav.Link target="_blank" href={resume}>Resume</Nav.Link>
                         </Nav>
                     </Navbar.Collapse>
                 </Container>

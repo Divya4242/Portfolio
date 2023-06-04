@@ -1,6 +1,7 @@
 import React from "react";
 import git from "./images/github.png";
-import linkedin from "./images/linkedin.png"
+import linkedin from "./images/linkedin.png";
+import resume from "./images/Divya_Resume.pdf"
 function Contact() {
     return (
         <div className="contact">
@@ -14,9 +15,10 @@ function Contact() {
             <a onmouseover="cursor:'pointer'" target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/divya-patel-07257424a/"> <img src={linkedin} alt="..." height={50} width={50} /> </a> <br /> <br />
 
             <div style={{fontSize:"30px"}}>Employment: </div> <br />
-            <div className="mine">I'm always open to new <br /> opportunities, so feel free  <br />to take a look at my resume! </div> <br/> <br/>
+            <div className="mine">I'm always open to new <br /> opportunities, so feel free  <br />to take a look at 
+            <a onmouseover="cursor:'pointer'" target="_blank" rel="noreferrer" href={resume}> my resume!  </a> </div> <br/> <br/>
 
-            <div style={{backgroundColor:"black"}}>To use this template as your website, go to this repository, download the source code and change relevant information!</div>
+            <div style={{backgroundColor:"black"}}>To use this template as your website, go to  <a onmouseover="cursor:'pointer'" target="_blank" rel="noreferrer" href="https://github.com/Divya4242/Portfolio">this repository</a>, download the source code and change relevant information!</div>
         </div>
     )
 }
