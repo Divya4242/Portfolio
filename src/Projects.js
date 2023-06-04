@@ -23,7 +23,7 @@ function Projects() {
                         style={{ borderRadius: "5px" }}
                     >
                         <div
-                            className="col-md-3 card mx-2"
+                            className="col-md-3 card mx-2 RP"
                             style={{ border: "0", padding: "5px" }}
                         >
                             <div
@@ -49,7 +49,7 @@ function Projects() {
                             </div>
                         </div>
                         <div
-                            className="col-md-3 card"
+                            className="col-md-3 card API"
                             style={{ border: "0", padding: " 5px" }}
                         >
                             <div
@@ -73,7 +73,7 @@ function Projects() {
                             </div>
                         </div>
                         <div
-                            className="col-md-3 card mx-2"
+                            className="col-md-3 card mx-2 OS"
                             style={{ border: "0", padding: " 5px" }}
                         >
                             <div
@@ -98,7 +98,7 @@ function Projects() {
                             </div>
                         </div>
                         <div
-                            className="col-md-3 card"
+                            className="col-md-3 card IT"
                             style={{ border: "0", padding: " 5px" }}
                         >
                             <div
@@ -124,13 +124,14 @@ function Projects() {
                     </div>
                 </div>
             </div>
-            <div  style={{ marginTop: "30px" }}className="certifications">
+            <div style={{ marginTop: "30px" }} className="certifications">
                 <h1 style={{ paddingTop: "30px" }}>Certifications</h1>
                 <hr style={{ width: "70%", position: "relative", left: "15%" }}></hr> <br />
-
-                <a id="AZ" onmouseover="cursor:'pointer'" target="_blank" rel="noreferrer" href="https://www.credly.com/badges/e68b5950-30db-4e34-ba71-b3928f39a408/public_url"><img alt="Azure Fundamental Cetificate AZ-900" title="Azure Fundamental Certification" style={{ cursor: "pointer", }} src={Az}></img></a>
-                <a id="Google" onmouseover="cursor:'pointer'" target="_blank" rel="noreferrer" href="https://www.credential.net/3f3764a4-151c-484f-9626-41f076d4799f#gs.10045np"><img style={{ marginLeft: "30px", cursor: "pointer" }} alt="Google Cloud Digital Leader" title="Google Cloud Digital Leader Certification" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70951264?key=fd1b640dade2417f43ccfa1848122130055c397245e58883f2bbce165356002b"></img></a>
-                <a id="AWS" onmouseover="cursor:'pointer'" target="_blank" rel="noreferrer" href="https://www.udemy.com/certificate/UC-2ffdf187-a16a-4958-93ac-ec7ecfdf5a46/"><img alt="AWS Solution Architect" title="AWS Solution Architect Associate Certification (Udemy Certified)" style={{ marginLeft: "30px", width: "190px", height: "190px", backgroundColor: "aliceblue" }} src={AWS}></img></a>
+                <div className="img">
+                    <a id="AZ" onmouseover="cursor:'pointer'" target="_blank" rel="noreferrer" href="https://www.credly.com/badges/e68b5950-30db-4e34-ba71-b3928f39a408/public_url"><img alt="Azure Fundamental Cetificate AZ-900" title="Azure Fundamental Certification" style={{ cursor: "pointer", }} src={Az}></img></a>
+                    <a id="Google" onmouseover="cursor:'pointer'" target="_blank" rel="noreferrer" href="https://www.credential.net/3f3764a4-151c-484f-9626-41f076d4799f#gs.10045np"><img id="myGoogle" style={{ marginLeft: "30px", cursor: "pointer" }} alt="Google Cloud Digital Leader" title="Google Cloud Digital Leader Certification" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70951264?key=fd1b640dade2417f43ccfa1848122130055c397245e58883f2bbce165356002b"></img></a>
+                    <a id="AWS" onmouseover="cursor:'pointer'" target="_blank" rel="noreferrer" href="https://www.udemy.com/certificate/UC-2ffdf187-a16a-4958-93ac-ec7ecfdf5a46/"><img id="myAWS" alt="AWS Solution Architect" title="AWS Solution Architect Associate Certification (Udemy Certified)" style={{ marginLeft: "30px", width: "190px", height: "190px", backgroundColor: "aliceblue" }} src={AWS}></img></a>
+                </div>
             </div>
         </div>
 
