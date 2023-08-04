@@ -124,7 +124,7 @@ li {
   min-height: 50px;
   border-left: 1px dashed;
   font-size: 18px;
-  padding: 0 0 50px 30px;
+  padding: 0 0 40px 30px;
   position: relative;
 }
 
@@ -192,6 +192,11 @@ li::before {
   }
 
   #myAWS {
+    margin-left: 17px !important;
+    margin-top: 13px !important;
+  }
+  
+  #myAZ {
     margin-left: 17px !important;
     margin-top: 13px !important;
 

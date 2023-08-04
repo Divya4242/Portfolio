@@ -1,7 +1,7 @@
 import React from "react";
 import git from "./images/github.png";
 import linkedin from "./images/linkedin.png";
-import resume from "./images/Divya_Resume.pdf"
+import resume from "./images/Divya_Patel_CV.pdf"
 function Contact() {
     return (
         <div className="contact">

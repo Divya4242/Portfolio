@@ -14,6 +14,7 @@ function Timeline() {
                             <div style={{color:"white"}}>
                                 Diploma <br/>
                                 R.C Technical College, Sola, Ahmedabad
+                                9.76 - CGPA
                             </div>
                         </div>
                     </li>

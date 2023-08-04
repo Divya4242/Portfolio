@@ -11,8 +11,8 @@ function Aboutme() {
             </div> <br/>
             <p style={{ justifyContent: "center", display: "flex" }}>💬 Student, self-taught coder <br/>
                 📙 Studies at Lalbhai Dalpatbhai College of Engineering, Ahmedabad <br/>
-                🔭 Intrested in web-development, open-source, cloud computing , anything tech <br/>
-                🖥 Develops webapps. back-end works. <br/>
+                🔭 Intrested in Cloud computing, DevOps, web-development, anything tech <br/>
+                🖥 Develops webapps. front-end works. <br/>
                 📚 Branch Information Technology <br/>
                 🧩 Likes gaming. cycling. and obviously coding <br/>
             </p>
