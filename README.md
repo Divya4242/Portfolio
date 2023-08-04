@@ -11,8 +11,9 @@ I believe this will provide a good insight into my skills and experience as a de
 ### Project Visuals
 ![image](https://github.com/Divya4242/Portfolio/assets/113757574/348c90bc-f16e-4a86-9c6e-19ce2dac406b)
 
-![image](https://github.com/Divya4242/Portfolio/assets/113757574/aa500476-a887-4478-816b-662f5e418f10)
+![image](https://github.com/Divya4242/Portfolio/assets/113757574/f9431dc2-293b-4ff3-871d-6ae4dd6019e6)
 
 ![image](https://github.com/Divya4242/Portfolio/assets/113757574/5a3ebb3d-fa40-45c8-b4d4-1509fcb5273e)
 
-![image](https://github.com/Divya4242/Portfolio/assets/113757574/a8743c2c-3c69-4a7f-81e0-b65d01c0d032)
+![image](https://github.com/Divya4242/Portfolio/assets/113757574/0ebed892-39b1-4ef1-92ce-9c8ef3801766)
+
