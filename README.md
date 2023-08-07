@@ -1,7 +1,7 @@
 
 # Project-05
 
-I'm excited to share my portfolio website with you all! 🎉 In this website, I've included details about my minor and major projects, Prominent Cloud Certifications, as well as my acadamic status and skills. You can check it out [https://divyapatell.azurewebsites.net/](https://divyapatelport.azurewebsites.net/)
+I'm excited to share my portfolio website with you all! 🎉 In this website, I've included details about my minor and major projects, Prominent Cloud Certifications, as well as my acadamic status and skills. You can check it out https://divyapatelport.azurewebsites.net/
 
 ### About Portfolio
 Creating this website was a great opportunity for me to showcase my work and highlight my abilities. 
