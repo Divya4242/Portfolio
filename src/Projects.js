@@ -45,7 +45,6 @@ function Projects() {
                                     Made in React JS, Bootstrap and Firebase
                                 </p>
                                 <a target="_blank" rel="noreferrer" href="https://github.com/Divya4242/Research-Paper"><img style={{ color: "black" }} src={git} alt="..." height={46} width={46} /> </a>
-                                <a target="_blank" rel="noreferrer" href="https://researchpaper.azurewebsites.net"><img style={{ marginLeft: "10px" }} src={web} alt="..." height={46} width={46} /> </a>
                             </div>
                         </div>
                         <div
@@ -69,7 +68,7 @@ function Projects() {
                                     The project consists of three APIs. PPP, ForEx and Weather Api
                                 </p>
                                 <a target="_blank" rel="noreferrer" href="https://github.com/Divya4242/The-API-Project"><img style={{ color: "black" }} src={git} alt="..." height={46} width={46} /> </a>
-                                <a target="_blank" rel="noreferrer" href="https://divyaapis.azurewebsites.net"><img style={{ marginLeft: "10px" }} src={web} alt="..." height={46} width={46} /> </a>
+                                <a target="_blank" rel="noreferrer" href="https://apiproject.devopswithdivya.me/"><img style={{ marginLeft: "10px" }} src={web} alt="..." height={46} width={46} /> </a>
                             </div>
                         </div>
                         <div
@@ -94,7 +93,7 @@ function Projects() {
                                     page replacement algorithms, scheduling algorithms, and memory partitioning algorithms.
                                 </p>
                                 <a target="_blank" rel="noreferrer" href="https://github.com/Divya4242/The-OS-Project"><img style={{ color: "black" }} src={git} alt="..." height={46} width={46} /> </a>
-                                <a target="_blank" rel="noreferrer" href="https://divyaprograms.azurewebsites.net/"><img style={{ marginLeft: "10px" }} src={web} alt="..." height={46} width={46} /> </a>
+                                <a target="_blank" rel="noreferrer" href="https://osprograms.devopswithdivya.me/"><img style={{ marginLeft: "10px" }} src={web} alt="..." height={46} width={46} /> </a>
                             </div>
                         </div>
                         <div
